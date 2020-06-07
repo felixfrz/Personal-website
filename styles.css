@@ -1,0 +1,94 @@
+/* navigation bar */
+.navbar-brand{
+ margin-left: 5px;
+ font-size: 4rem;
+ padding: 20pxpx;
+ 
+}
+
+/* Heading */
+
+#heading{
+ padding: 2% 15%;
+ background-color: #0e9aa7;
+ color: #fff;
+ text-align: center;
+}
+.header-cloud1{
+ position: relative;
+ left: 40%;
+ top: 20px;
+}
+.header-cloud2{
+ position: absolute;
+left: 10%;
+
+}
+
+.header-text{
+ font-size: 3rem;
+ padding-top: 10%;
+ font-family: 'Pacifico', cursive;
+}
+.pro{
+ font-size: 1.2rem;
+}
+
+.header-pro{
+ font-size: 1.8rem;
+}
+.header-image{
+ width: 70%;
+}
+
+/* Profile */
+#profile{
+ background-color: #3da4ab;
+ text-align: center;
+ padding: 7% 15%;
+ background-attachment: fixed;
+ color: #fff;
+}
+.bio-header{
+ font-size: 2.5rem;
+}
+.bio{
+/* work */
+}
+#work{
+ background-color: #f6cd61;
+ text-align: center;
+ 
+}
+.carousel-item{
+padding: 7% 15%;
+}
+.work-image{
+ width: 40%;
+ padding: 7%;
+}
+.work-heading{
+ font-size:2.5rem;
+ color: rgb(58, 56, 56);
+}
+
+/* footer */
+#footer{
+ background-color: #fe8a71;
+ padding: 8% 10%;
+ text-align: center;
+}
+
+.message-button{
+ padding: 10px;
+ margin: 15px;
+ background-color: #0e9aa7;
+}
+
+.footer-link{
+ margin: 10px;
+}
+.footer-copyright{
+ color: #fff;
+ padding: 5px 20px;
+}
